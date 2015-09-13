@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "IEEE Nordic Student, Young Professionals & Women In Engineering Congress 2015"
+title:       "IEEE Nordic SYP 2015"
 keywords:    "blog, ieee, syp, nordic"
 description: "Website with all the information regarding the congress for IEEE Nordic"
 source_link: "https://github.com/t413/SinglePaged"
