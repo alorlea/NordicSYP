@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "IEEE Nordic SYP 2015"
 keywords:    "blog, ieee, syp, nordic"
 description: "Website with all the information regarding the congress for IEEE Nordic"
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://github.com/alorlea/NordicSYP"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-icon-57x57.png"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
