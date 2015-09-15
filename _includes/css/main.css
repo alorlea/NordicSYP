@@ -243,8 +243,7 @@ nav ul li:hover, nav ul li.active {
 .img-sponsor {
   padding: 15px 30px;
   display: inline;
-  max-width: 100%;
-  height: 50%;
+  height: 150px;
   vertical-align: middle;
 }
 
