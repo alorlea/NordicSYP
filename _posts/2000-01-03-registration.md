@@ -24,6 +24,6 @@ After 15th of October, 2015:
 * **IEEE Member:** 3000 SEK
 * **Non-IEEE Members:** 3500 SEK
 
-The registration fee includes accommodation for three days (two nights, 6th and 7th November), food, industry visits and a welcome kit.
+The registration fee includes accommodation for three days (two nights hostel, 6th and 7th November), food, industry visits and a welcome kit.
 
 
