@@ -8,9 +8,8 @@ fa-icon: pencil-square-o
 ## *Registrations are now open for the congress*
 
 ### How to Register!
-Fill in the form at the following **[link](https://docs.google.com/forms/d/1VLReatXQ2IB3qhE0WDkmWy31sA3SH1zYiNDDCCb-RSQ/viewform?usp=send_form)**. 
 
-Once we receive your interest, we will get back to you at the earliest with the details on how to proceed. 
+Sorry Registrations are closed!!!
 
 **Registration Fees!!**
 
