@@ -11,6 +11,8 @@ fa-icon: pencil-square-o
 
 Sorry Registrations are closed!!!
 
+If you are a local resident and still, you are interested send an email to us on the link at the top of the page.
+
 **Registration Fees!!**
 
 Early Bird registrations, until 15th of October, 2015:
